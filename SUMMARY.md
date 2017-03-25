@@ -7,3 +7,4 @@
 
 * [浴缸](/pages/bathroom/bathtub.md)
 * [马桶](/pages/bathroom/toilet.md)
+* [龙头](/pages/bathroom/faucet.md)
